@@ -1,7 +1,8 @@
 # SlimeRPG
 This is a prototype RPG game. 
-
 Made on Unity 2021.3.19f1. 
+
+![Screenshot_2](https://user-images.githubusercontent.com/101856158/230210866-64eab435-3077-428e-988f-b9e2d42b23a4.png)
 
 Blue capsule - our slime moves forward on the platform, opponents are coming to it, red cubes - they have health.
 Slime shoots them with a sphere. The sphere flies in an arc.
